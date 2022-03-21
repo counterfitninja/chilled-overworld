@@ -96,7 +96,7 @@ UnminedCustomMarkers = {
             text: "Distrom77",
             textColor: "red", 
         }, {
-            x: -2000,
+            x: -2100,
             z: -2000,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
