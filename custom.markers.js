@@ -1,7 +1,7 @@
-UnminedCustomMarkers = { isEnabled: true, markers: [{ x: overworld, z: -216, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-355", textColor: "CNinja's Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: overworld, z: -428, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "135", textColor: "Village With Villagers On A Mountain", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: overworld, z: 183, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "244", textColor: "Sheagles Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: overworld, z: 392, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-320", textColor: "Ch1llboys Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: overworld, z: 122, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-170", textColor: "Elytra Tower", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: overworld, z: 388, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "1914", textColor: "The Chiefs Tower", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "CNinja's Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: -428, z: 135, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Village With Villagers On A Mountain", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 183, z: 244, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sheagles Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 392, z: -320, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Ch1llboys Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 122, z: -170, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Elytra Tower", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 388, z: 1914, image: "/markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "The Chiefs Tower", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
