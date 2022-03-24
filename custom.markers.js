@@ -1,4 +1,7 @@
- UnminedCustomMarkers = { isEnabled: true, markers: [ 
-
-]
-}
+UnminedCustomMarkers = { isEnabled: true, markers: [{ x: overworld, z: -216, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-355", textColor: "CNinja's Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: overworld, z: -428, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "135", textColor: "Village With Villagers On A Mountain", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: overworld, z: 183, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "244", textColor: "Sheagles Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: overworld, z: 392, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-320", textColor: "Ch1llboys Base", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: overworld, z: 122, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "-170", textColor: "Elytra Tower", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: overworld, z: 388, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "1914", textColor: "The Chiefs Tower", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+]}
