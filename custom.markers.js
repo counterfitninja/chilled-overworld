@@ -4,4 +4,6 @@ UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "
 { x: 392, z: -320, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Ch1llboys Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 122, z: -170, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Elytra Tower", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 388, z: 1914, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "The Chiefs Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 710, z: 103, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Samathysts Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 2160, z: 512, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Distroms Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
