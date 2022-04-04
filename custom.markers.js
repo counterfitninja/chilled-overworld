@@ -1,7 +1,9 @@
 UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "CNinja's Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
-{ x: -428, z: 135, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Village With Villagers On A Mountain", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 183, z: 244, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sheagles Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 392, z: -320, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Ch1llboys Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 122, z: -170, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Elytra Tower", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 388, z: 1914, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "The Chiefs Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 710, z: 103, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Samathysts Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 2160, z: 512, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Distroms Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 2300, z: 1110, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Moohaa's Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
