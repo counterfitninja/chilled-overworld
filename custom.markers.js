@@ -16,4 +16,5 @@ UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "
 { x: 216, z: 1705, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "The Chiefs AC", textColor: "#bc9898", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 792, z: 1208, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sanojjonas AC", textColor: "#bc9898", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 200, z: 1336, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Moos AC", textColor: "#bc9898", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 56, z: 888, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "SquareRoots AC", textColor: "#bc9898", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
