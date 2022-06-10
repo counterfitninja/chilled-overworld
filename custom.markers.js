@@ -8,4 +8,11 @@ UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "
 { x: 2300, z: 1110, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Moohaa's Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 465, z: -200, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Games", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 1917, z: 553, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sanojjonas Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: -200, z: 216, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "CNinjas AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 168, z: 504, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sheagles AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 856, z: -664, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Distroms AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 856, z: -248, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Distroms AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 840, z: -1016, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "ABoxCar AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 216, z: 1705, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "The Chiefs AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 792, z: 1208, image: "../markers/map-marker-1.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Sanojjonas AC", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
