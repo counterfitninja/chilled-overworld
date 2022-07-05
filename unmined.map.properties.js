@@ -4,10 +4,10 @@ var UnminedMapProperties = {
     maxZoom: 1,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -30,
-    minRegionZ: -33,
+    minRegionX: -8,
+    minRegionZ: -9,
     maxRegionX: 54,
-    maxRegionZ: 34,
+    maxRegionZ: 7,
     worldName: "The Hills are Alive",
     background: "",
     markers: new Array()
