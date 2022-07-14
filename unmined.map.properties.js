@@ -7,7 +7,7 @@ var UnminedMapProperties = {
     minRegionX: -8,
     minRegionZ: -9,
     maxRegionX: 54,
-    maxRegionZ: 7,
+    maxRegionZ: 16,
     worldName: "The Hills are Alive",
     background: "",
     markers: new Array()
