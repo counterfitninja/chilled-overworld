@@ -19,4 +19,5 @@ UnminedCustomMarkers = { isEnabled: true, markers: [{ x: -216, z: -355, image: "
 { x: 56, z: 888, image: "../markers/map-marker-17.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "SquareRoots AC", textColor: "#bc9898", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: 2210, z: 735, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Square’s Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 { x: -80, z: -1660, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "ABoxCars Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
+{ x: 889, z: -1182, image: "../markers/map-marker-20.png", imageAnchor: [0.5, 1], imageScale: 0.5, text: "Hartini07 Base", textColor: "#ffffff", offsetX: 0, offsetY: 8, font: "bold 12px Verdana" },
 ]}
